@@ -10,7 +10,7 @@ Implemented in Python using OpenCV, Capture is a simple program to capture an im
 
  **Command format** 
  
- _$ python capt.py 
+ `python capt.py` 
  
  
  ### sample output :
